@@ -1,0 +1,10 @@
+body{
+    font-family: sans-serif;
+    background-color: cornflowerblue;
+}
+h1{
+    font-weight: normal;
+    margin: auto;
+    padding: 0;
+    color: blueviolet;
+}
